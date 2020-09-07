@@ -1,4 +1,4 @@
-Package: pkgardown
+Package: pkgardata
 Title: 'ArData' 'pkgdown' Templates
 Version: 0.0.1
 Authors@R: c(
