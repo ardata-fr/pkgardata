@@ -1,6 +1,6 @@
 Package: pkgardata
 Title: 'ArData' 'pkgdown' Templates
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
     person("David", "Gohel", 
     email = "david.gohel@ardata.fr", 
@@ -9,5 +9,4 @@ Authors@R: c(
 Description: Specific template for ArData when using pkgdown.
 License: file LICENSE
 Encoding: UTF-8
-LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
